@@ -1,4 +1,4 @@
-# dbms-lab
+# DBMS Lab
 ## Name: Gourab Chakraborty
 ## Reg No: 19BCS118
 ## Repo Description: 
